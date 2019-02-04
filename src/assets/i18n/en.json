@@ -90,15 +90,117 @@
         "searchLable": "Description"
       },
       "new": {
-        "title": "a Category of Device",
+        "title": "New category of Device",
         "name": "Name",
         "description": "Description"
       },
       "updated": {
-        "title": "a Category of Device",
+        "title": "Update category of Device",
         "id": "ID",
         "name": "Name",
         "description": "Description"
+      }
+    },
+    "categoryColor": {
+      "list": {
+        "title": "Device of color",
+        "searchLable": "Description"
+      },
+      "new": {
+        "title": "New device of color",
+        "name": "Color",
+        "code": "Code",
+        "description": "Description"
+      },
+      "updated": {
+        "title": "Update device of Color",
+        "id": "ID",
+        "name": "Color",
+        "code": "Code",
+        "description": "Description"
+      }
+    },
+    "categoryBrand": {
+      "list": {
+        "title": "Device of brand",
+        "searchLable": "Description"
+      },
+      "new": {
+        "title": "New device of brand",
+        "name": "Name",
+        "code": "Code",
+        "description": "Description"
+      },
+      "updated": {
+        "title": "Update device of brand",
+        "id": "ID",
+        "name": "Name",
+        "code": "Code",
+        "description": "Description"
+      }
+    },
+    "deviceCondition": {
+      "list": {
+        "title": "Device of condition",
+        "searchLable": "Description"
+      },
+      "new": {
+        "title": "New device of condition",
+        "name": "Condition",
+        "description": "Description"
+      },
+      "updated": {
+        "title": "Update device of condition",
+        "id": "ID",
+        "name": "Condition",
+        "description": "Description"
+      }
+    },
+    "capacityUnit": {
+      "list": {
+        "title": "Unit of capacity",
+        "searchLable": "Description"
+      },
+      "new": {
+        "title": "New unit of capacity",
+        "name": "Capacity",
+        "description": "Description"
+      },
+      "updated": {
+        "title": "Update unit of capacity",
+        "id": "ID",
+        "name": "Capacity",
+        "description": "Description"
+      }
+    },
+    "loanStatus": {
+      "list": {
+        "title": "Loan Status",
+        "searchLable": "Description"
+      },
+      "new": {
+        "title": "New loan of status",
+        "name": "Status"
+      },
+      "updated": {
+        "title": "Update loan of status",
+        "id": "ID",
+        "name": "Status"
+      }
+    },
+    "device": {
+      "list": {
+        "title": "Device",
+        "searchLable": "Description"
+      },
+      "new": {
+        "title": "New device",
+        "name": "Device"
+      },
+      "updated": {
+        "title": "Update device",
+        "id": "ID",
+        "name": "Device"
       }
     }
   }

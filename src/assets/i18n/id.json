@@ -75,15 +75,117 @@
         "searchLable": "Deskripsi"
       },
       "new": {
-        "title": "Kategory Perangkat",
+        "title": "Tambah Kategory Perangkat",
         "name": "Nama",
         "description": "Keterangan"
       },
       "updated": {
-        "title": "Kategory Perangkat",
+        "title": "Ubah Kategory Perangkat",
         "id": "ID",
         "name": "Nama",
         "description": "Keterangan"
+      }
+    },
+    "categoryColor": {
+      "list": {
+        "title": "Warna Perangkat",
+        "searchLable": "Deskripsi"
+      },
+      "new": {
+        "title": "Tambah Warna Perangkat",
+        "name": "Nama",
+        "code": "Kode",
+        "description": "Keterangan"
+      },
+      "updated": {
+        "title": "Ubah Warna Perangkat",
+        "id": "ID",
+        "name": "Nama",
+        "code": "Kode",
+        "description": "Keterangan"
+      }
+    },
+    "categoryBrand": {
+      "list": {
+        "title": "Kategori Merk",
+        "searchLable": "Deskripsi"
+      },
+      "new": {
+        "title": "Kategory Merk",
+        "name": "Nama",
+        "code": "Kode",
+        "description": "Keterangan"
+      },
+      "updated": {
+        "title": "Kategory Merk",
+        "id": "ID",
+        "name": "Nama",
+        "code": "Kode",
+        "description": "Keterangan"
+      }
+    },
+    "deviceCondition": {
+      "list": {
+        "title": "Kondisi Device",
+        "searchLable": "Deskripsi"
+      },
+      "new": {
+        "title": "Kondisi Device",
+        "name": "Kondisi",
+        "description": "Keterangan"
+      },
+      "updated": {
+        "title": "Kondisi Device",
+        "id": "ID",
+        "name": "Kondisi",
+        "description": "Keterangan"
+      }
+    },
+    "loanStatus": {
+      "list": {
+        "title": "Status Peminjaman",
+        "searchLable": "Deskripsi"
+      },
+      "new": {
+        "title": "Status Peminjaman",
+        "name": "Status"
+      },
+      "updated": {
+        "title": "Status Peminjaman",
+        "id": "ID",
+        "name": "Status"
+      }
+    },
+    "capacityUnit": {
+      "list": {
+        "title": "Satuan Kapasitas",
+        "searchLable": "Deskripsi"
+      },
+      "new": {
+        "title": "Satuan Kapasitas",
+        "name": "Kapasitas",
+        "description": "Keterangan"
+      },
+      "updated": {
+        "title": "Satuan Kapasitas",
+        "id": "ID",
+        "name": "Kondisi",
+        "description": "Keterangan"
+      }
+    },
+    "device": {
+      "list": {
+        "title": "Perangkat",
+        "searchLable": "Deskripsi"
+      },
+      "new": {
+        "title": "Tambah Perangkat",
+        "name": "Perangkat"
+      },
+      "updated": {
+        "title": "Ubah Perangkat",
+        "id": "ID",
+        "name": "Perangkat"
       }
     }
   }
